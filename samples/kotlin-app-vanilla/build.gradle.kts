@@ -1,3 +1,3 @@
 plugins {
-    id("app.kotlin-application-conventions")
+    id("common.kotlin-application")
 }

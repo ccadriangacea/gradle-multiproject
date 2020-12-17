@@ -1,7 +1,7 @@
 import gradle.util.publishingToS3
 
 plugins {
-    id("app.kotlin-library-conventions")
+    id("common.kotlin-library")
 }
 
 // Publish to S3 maven repo
