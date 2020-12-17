@@ -1,0 +1,1 @@
+logger.lifecycle("\n>>> Running build.gradle in gradle-multiproject \n")
